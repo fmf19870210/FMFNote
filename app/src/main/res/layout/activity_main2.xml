@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.fmf.fmfnote.shijian_fenfa.BarryViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+   >
+
+    <com.fmf.fmfnote.shijian_fenfa.BarryButton
+        android:id="@+id/btn_barry"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:text="TestEvent!"
+        android:clickable="true"
+        />
+
+</com.fmf.fmfnote.shijian_fenfa.BarryViewGroup>

@@ -1,0 +1,69 @@
+
+实现UI： 自定义VIew
+java 语言
+自定义View android 基础
+
+自定义View 包含什么？
+
+布局： onlayout onmeausre/ Layout：viewGroup
+
+显示： onDraw          ：view： canvas paint matrix clip rect animation path（贝塞尔） line  text绘制
+      frameWork： 
+交互： onTouchEvent    ：组合的viewGroup
+大量的实战，实践/
+
+jett：xml解析原理，view层次结构，插件化换肤
+
+2000平
+
+序列化
+自定义序列化： IOT
+协议
+物联网：蓝牙：传递的数据 串口 协议：
+
+
+子
+自己  ;viewPager
+
+都可以：算法
+
+先孩子再自己
+android:layout_width="wrap_content"  -》xxx dp  dip
+                android:layout_height="wrap_content"
+
+很多知识：算法
+
+MeasureSpec ：
+
+size 值
+   0~10000
+   int 32：
+   30
+   
+   
+ int  11000000000000000000000
+ mode：高两位：UNSPECIFIED, EXACTLY, AT_MOST
+ 01 00 11 
+ 算法是怎样的？
+ SDK一个包：严谨性，可拓展性
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+<resources>
+
+
+    <style name="ActivityDialogStyle" >
+        <!--去掉action bar和标题栏-->
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!--背景透明-->
+        <item name="android:windowIsTranslucent">true</item>
+        <!--dialog圆角-->
+        <item name="android:windowBackground">@drawable/jverification_demo_dialog_bg</item>
+
+        <!--弹窗后整个屏幕的背景是否有遮障层，默认是半透明的-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="ButtonNormal">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/jverification_demo_selector_btn_main</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

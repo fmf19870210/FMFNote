@@ -1,0 +1,10 @@
+include ':example'
+include ':jiguang'
+include ':jiguang-demo'
+include ':dispatchtoucheventdemo'
+include ':shujujiegousanfa'
+
+include ':rxjavademo'
+include ':app'
+rootProject.name='FMFNote'
+include ':xxkotlindemo'

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/jshare_demo_shape_dot_1" android:state_selected="false" />
+    <item android:drawable="@drawable/jshare_demo_shape_dot_2" android:state_selected="true" />
+</selector>
